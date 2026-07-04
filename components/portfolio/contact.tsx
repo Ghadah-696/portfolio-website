@@ -15,8 +15,7 @@ const contactLinks = [
   {
     key: 'linkedin',
     icon: Linkedin,
-    اhref:'https://www.linkedin.com/in/ghada-abdullah-82a3002a0/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BW46RzIp%2FSLGeAFoaWPuBUg%3D%3D',
-    // href: 'https://www.linkedin.com/in/ghadah-abdullah-82a3002a0',
+    href: 'https://www.linkedin.com/in/ghada-abdullah-82a3002a0',
     value: 'View LinkedIn Profile',
   },
   {
