@@ -47,15 +47,8 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
-}
 
-export const viewport: Viewport = {
-  themeColor: '#1a1a2e',
-  width: 'device-width',
-  initialScale: 1,
-}
-
-openGraph: {
+  openGraph: {
   title: 'Ghada Abdullah | Laravel & SaaS Developer',
   description:
     'Building scalable SaaS applications and modern web systems using Laravel.',
@@ -73,6 +66,15 @@ twitter: {
   card: 'summary_large_image',
   images: ['/og-image.png'],
 },
+
+}
+
+export const viewport: Viewport = {
+  themeColor: '#1a1a2e',
+  width: 'device-width',
+  initialScale: 1,
+}
+
 
 export default function RootLayout({
   children,
