@@ -11,7 +11,7 @@ import { useState } from 'react'
 const projects = [
   {
     id: '1',
-    image: '/projects/update.webp',
+    image: '/projects/SaaS MVP Project.webp',
     tech: ['Laravel', 'Tailwind CSS', 'JavaScript', 'WASM Ready'],
     color: 'from-cyan-500/10 to-blue-500/10',
   },
@@ -29,7 +29,7 @@ const projects = [
   },
   {
     id: '3',
-    image: '/projects/CMD Eduokul.webp',
+    image: '/projects/Laravel SaaS Platform.webp',
     tech: [
   'Laravel',
   'Authentication',
